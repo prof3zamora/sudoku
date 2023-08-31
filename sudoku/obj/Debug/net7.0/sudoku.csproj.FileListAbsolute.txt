@@ -1,0 +1,15 @@
+/Users/nick/Projects/sudoku/sudoku/bin/Debug/net7.0/sudoku
+/Users/nick/Projects/sudoku/sudoku/bin/Debug/net7.0/sudoku.deps.json
+/Users/nick/Projects/sudoku/sudoku/bin/Debug/net7.0/sudoku.runtimeconfig.json
+/Users/nick/Projects/sudoku/sudoku/bin/Debug/net7.0/sudoku.dll
+/Users/nick/Projects/sudoku/sudoku/bin/Debug/net7.0/sudoku.pdb
+/Users/nick/Projects/sudoku/sudoku/obj/Debug/net7.0/sudoku.csproj.AssemblyReference.cache
+/Users/nick/Projects/sudoku/sudoku/obj/Debug/net7.0/sudoku.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/Projects/sudoku/sudoku/obj/Debug/net7.0/sudoku.AssemblyInfoInputs.cache
+/Users/nick/Projects/sudoku/sudoku/obj/Debug/net7.0/sudoku.AssemblyInfo.cs
+/Users/nick/Projects/sudoku/sudoku/obj/Debug/net7.0/sudoku.csproj.CoreCompileInputs.cache
+/Users/nick/Projects/sudoku/sudoku/obj/Debug/net7.0/sudoku.dll
+/Users/nick/Projects/sudoku/sudoku/obj/Debug/net7.0/refint/sudoku.dll
+/Users/nick/Projects/sudoku/sudoku/obj/Debug/net7.0/sudoku.pdb
+/Users/nick/Projects/sudoku/sudoku/obj/Debug/net7.0/sudoku.genruntimeconfig.cache
+/Users/nick/Projects/sudoku/sudoku/obj/Debug/net7.0/ref/sudoku.dll
