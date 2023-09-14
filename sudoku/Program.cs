@@ -17,6 +17,7 @@ class SudokuGame
             {0, 0, 0, 0, 8, 0, 0, 7, 9}
         };
 
+        //Texto de Bienvenida
         Console.WriteLine("¡Bienvenido al juego de Sudoku!");
         Console.WriteLine("Llena las posiciones faltantes con números del 1 al 9.");
         Console.WriteLine();
