@@ -4,6 +4,7 @@ class SudokuGame
 {
     static void Main(string[] args)
     {
+        //
         int[,] sudokuBoard = {
             {5, 3, 0, 0, 7, 0, 0, 0, 0},
             {6, 0, 0, 1, 9, 5, 0, 0, 0},
@@ -45,6 +46,7 @@ class SudokuGame
         PrintSudokuBoard(sudokuBoard);
     }
 
+    //Imprime en consola el Tablero de Sudoku
     static void PrintSudokuBoard(int[,] board)
     {
         for (int i = 0; i < 9; i++)
