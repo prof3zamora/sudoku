@@ -43,6 +43,7 @@ class SudokuGame
             }
         }
 
+        //Mensaje que ha terminado el juego
         Console.WriteLine("¡Juego completado! Aquí está el tablero final:");
         PrintSudokuBoard(sudokuBoard);
     }
